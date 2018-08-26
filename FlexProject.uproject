@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{A509A99E-42E2-4C7B-C0CF-67A3C4E0A232}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FlexProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
